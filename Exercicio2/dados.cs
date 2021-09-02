@@ -8,6 +8,7 @@ namespace Exercicio2
 {
     class dados
     {
+        //203400
         // Variaveis 
         // N de NOME
         public string N;
